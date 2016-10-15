@@ -1,7 +1,4 @@
 @extends('templates.default')
-@section('alerts')
-  Pickup for existing tickets will be available soon. Please check back later.
-@stop
 @section('intro')
 	<p>Endgrain Coffee Bar is proud to introduce the first Nitro tap in South Jersey. Nitro is a slightly effervescent, ice-cold coffee on tap that is equal parts chocolatey and silky smooth. Cold brewed over 24 hours, and then placed under nitrogen pressure to add a smooth creaminess to coffee. Nitro will excite your taste buds and is a summer time cold coffee you can get excited about. Come in and give it a try today.</p>
 	<p>We are located in the heart of Historic Pitman New Jersey just off of the ever-popular Broadway strip. With lots of small, quirky shops around the strip, Endgrain is perfectly located to caffeinate your trip to Uptown Pitman.</p>
