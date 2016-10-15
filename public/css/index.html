@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/2.0.4/js/bootstrap.min.js"></script>
+		<title>Franks Shoe Service</title>
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	    <meta name="mobile-web-app-capable" content="yes">
+	    <meta name="theme-color" content="#757575">
+	    <link rel="icon" sizes="192x192" href="img/favicon.png">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">		
+		<link rel="stylesheet" href="css/styles.css">
+		<script type="text/javascript">
+			$(window).scroll(function(){
+				var wScroll = $(this).scrollTop();
+				$('.logo').css({
+					'transform' : 'translate(0px, '+ wScroll /4 +'%)'
+				});
+			});
+		</script>
+		<script>
+			$('.navbar-nav > li').click(function (event) {
+            if ($(this)[0].id != 'btn') {
+                var target = $(this).find('>a').prop('hash');
+                $('html, body').animate({
+                    scrollTop: $(target).offset().top
+                }, 500);
+            }
+        });
+		</script>
+	    <meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<meta name="description" content="Located in Southern New Jersey, Franks Shoe Service has been repairing shoes since 1935. Stop on in to our shop for great services and even better customer service.">
+	</head>
+	<body>
+		<!-- {{-- @include('templates.snippets.alerts')
+		@include('templates.snippets.navigation') --}} -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+		<div data-example-id="dismissible-alert-js">
+			<div class="alert alert-warning alert-dismissible fade in" role="alert">
+				<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+					<span aria-hidden="true">×</span>
+				</button>
+				Pickup for existing tickets will be available soon. Please check back later.
+			</div>
+		</div>
+		<nav class="navbar navbar-default">
+	        <div class="container-fluid">
+                <div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                	</button>
+                	<a href="http://franksshoeservice.com/" class="navbar-brand">Franks Shoe Service</a>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                            <li><a href="http://franksshoeservice.com/">Home</a></li>
+                            <li><a href="#about">About Us</a></li>
+                            <li><a href="#services">Services</a></li>
+                            <li><a href="#contact">Contact Us</a></li>
+                            <li><a href="http://store.franksshoeservice.com">Store</a></li>
+                    </ul>
+                </div>
+	        </div>
+		</nav>
+		<header class="parabox">
+			<div class="logo"></div>
+		</header>
+		<section id="intro">
+			<div class="container">
+				<div class="page-header">
+					<h1>Craftsmanship [ˈkraf(t)smənˌShip] :</h1>
+					<em>The quality of design and work shown in something made by hand; artistry.</em>	
+				</div>
+				<section class="row-fluid">
+					<div class="span6 offset3">
+						<!-- {{-- @yield('intro') --}} -->
+						<p>Craftmanship is a work we use a lot at Franks Shoe Service, but that’s because we live by it. When we were founded in 1935, craftsmanship meant that you took your time to make sure that every stitch was picture perfect- not mass produced and cold. We take our time to speak with you to ensure we fix every problem while we have your shoes. It’s not about “bottom lines” or “profit margins;” it’s about providing a service that helps get you places.</p>
+						<p>In a world that is fast-paced and mass-produced, it’s nice to be able to step out of that for a minute and enjoy the smaller things. In the modern world we seldom get to speak with the men and women that actually provide services to us. There’s something refreshing about speaking with the person that’s fixing your shoes; it gives you a sense of comfort- that you’ll be well taken care of. Modern shoe repair is more than craftsman quality work and friendly customer service- it’s about being convenient and flexible. For us that means using the technology at our fingertips. Whether it’s eReceipts, loyalty cards, Apple Pay, Android Pay, or Facebook/Foursquare promotions, we’re using all the technology we can in order to make being a Franks Shoe Service customer a unique and enjoyable experience.</p>
+					</div>
+				</section>
+			</div>
+		</section>
+		<section id="about" class="module parallax para-1">
+			<div class="container">
+			<h1 class="paratit">About Us</h1>
+			</div>
+		</section>
+		<section class="pagelet">
+			<div class="container">
+				<div class="page-header">
+					<h1>Our Story</h1>
+					<em>1935 to Today</em>	
+				</div>
+				<section class="row-fluid">
+					<div class="span6 offset3">
+						<!-- {{-- @yield('aboutus') --}} -->
+						<p>Our story starts in Reggio Calabria, Italy when Francesco “Frank” Monteleone started as a shoe cobbler in 1933. He worked hard, even as a young man. He took pride in his work and was a flourishing businessman, but he felt called to become an American. With that, he took a boat to America and settled in New York City. After setting up shop and finding success in the big city, his friend wrote him about coming to southern New Jersey.  He met a girl in New Jersey, set up shop nearby, and lived the American dream- two children, a gorgeous wife, and a successful business.</p>
+						<!--<p>After passing in 2009, we decided to keep the business going. Now led by his great-grandson, Cory Monteleone, and his grandson, Richard Monteleone, Franks Shoe Service is moving into the next generation of shoe repair. By paying respect to our past, we are making our patriarch proud. We care about our customers and we accept nothing but complete customer satisfaction and our hope is that you can experience for yourself the kind of customer service that Frank provided to his customers.</p> -->
+					</div>
+				</section>
+			</div>
+		</section>
+		<section id="services" class="module parallax para-2">
+			<div class="container">
+			<h1 class="paratit">Services</h1>
+			</div>
+		</section>
+		<section class="pagelet">
+			<div class="container">
+				<div class="page-header">
+					<h1>What We Offer</h1>	
+				</div>
+				<section class="row-fluid">
+					<div class="span6 offset3">
+						<!-- {{-- @yield('services') --}} -->
+						<div class="table-responsive">          
+						  <table class="table">
+						    <thead>
+						      <tr>
+						        <th>Name</th>
+						        <th>Description</th>
+						      </tr>
+						    </thead>
+						    <tbody>
+						      <tr>
+						        <td>Shoe Shine</td>
+						        <td>White, Black, Brown- it doesn't matter. Make your shoes shine like a mirror.</td>
+						      </tr>
+						      <tr>
+						        <td>Shoe Dye</td>
+						        <td>Color fades or maybe your interest does. Whatever the case, have your shoes look like new.</td>
+						      </tr>
+						      <tr>
+						        <td>Shoe Stretching</td>
+						        <td>If your favorite pair no longer seem to fit, this is perfect for you.</td>
+						      </tr>
+						      <tr>
+						        <td>Sole Work</td>
+						        <td>Traction gets you places- both in work and in life- and without a solid sole, you won't have much of it.</td>
+						      </tr>
+						      <tr>
+						        <td>Heel Work</td>
+						        <td>Stand tall knowing that your heels won't go flat on you.</td>
+						      </tr>
+						      <tr>
+						        <td>Ortho Build-Ups</td>
+						        <td>Get the balance you need and the support you deserve so you can go places in life.</td>
+						      </tr>
+						      <!-- <tr>
+						        <td>Custom Baby Shoes</td>
+						        <td>Built to last even as your child grows, have them be the envy of their friends.</td>
+						      </tr> -->
+						      <tr>
+						        <td>Even More</td>
+						        <td>Give us a shout if there's more you'd like to know about something we didn't list.</td>
+						      </tr>
+						    </tbody>
+						  </table>
+						  </div>
+					</div>
+				</section>
+			</div>
+		</section>
+		<section id="contact" class="module parallax para-3">
+			<div class="container">
+			<h1  class="paratit">Contact Us</h1>
+			</div>
+		</section>
+		<section class="pagelet">
+			<div class="container">
+				<div class="page-header">
+					<h1>Keep in Touch</h1>	
+				</div>
+				<section class="row-fluid">
+				<!-- {{-- @yield('contactus') --}} -->
+					<div class="span6">
+						<h3>Hit us up on social media:</h3>
+						<div class="row-fluid">
+				  		<div class="span4">
+				  			<a href="https://foursquare.com/franksshoesrvc">Foursquare</a>
+				  		</div>
+				  		<div class="span4">
+				  			<a href="https://www.facebook.com/franksshoeservice/">Facebook</a>
+				  		</div>
+				  		<div class="span4">
+				  			<a href="https://www.instagram.com/franksshoeservice/">Instagram</a>
+				  		</div>
+						</div>
+					</div>
+					<div class="span6">
+					 	<h3>Or stay in touch the more traditional ways:</h3>
+					  	<div class="row-fluid">
+					  		<div class="span4">
+					  			<address>12 S. 8th Street<br>
+					  			Vineland, NJ, USA 08361
+					  			</address>
+					  		</div>
+					  		<div class="span4">
+					  			<a href="mailto:contact@franksshoeservice.com">Email Us</a>
+					  		</div>
+					  		<div class="span4">
+					  			<a href="tel:18566911834">Call Us (+1 856.691.1834)</a>
+					  		</div>
+					  	</div>
+					</div>
+				</section>
+			</div>
+		</section>
+		<!-- {{-- @include('templates.snippets.header')
+		@include('templates.pagelets.intro')
+		@include('templates.parallax.paraone')
+		@include('templates.pagelets.aboutus')
+		@include('templates.parallax.paratwo')
+		@include('templates.pagelets.services')
+		@include('templates.parallax.parathree')
+		@include('templates.pagelets.contactus') --}} -->
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-74205314-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+	</body>
+<html>

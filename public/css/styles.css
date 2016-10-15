@@ -1,0 +1,123 @@
+
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:700,400);
+
+html, body{
+	height: 100%;
+	min-height: 100%;
+}
+.alert{
+  z-index: 100 !important;
+}
+
+body{
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+}
+.alert{
+  margin-bottom: 0px !important;
+}
+
+.navbar-brand{
+	font-family: 'Droid Serif' !important;
+	color: #fff !important;
+}
+
+.navbar-default{
+	background: #231F20 !important;
+}
+
+.navbar{
+    margin-bottom: 0px !important;
+    border: 0px !important;
+    border-radius: 0px !important;
+}
+
+.navbar-default .navbar-toggle:hover {
+    background-color: transparent !important;
+}
+
+.navbar-toggle{
+    border: 0px !important;
+    border-radius: 0px !important;
+}
+
+.icon-bar {
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff !important;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #d6ba75 !important;
+}
+
+header{
+    position: relative;
+    height: 600px;
+    background: url(../img/bg.jpg);
+    background-size: auto 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+.logo{
+    height: 180px;
+    width: 100%;
+    background: url(../img/axe_n_extractor.svg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 50%;
+    margin-top: -90px;
+}
+
+.pagelet, #intro{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 2px solid rgba(200,200,200,0.5);
+    background-color: #f1f1f1;
+}
+
+section.module.parallax {
+  padding: 240px 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+section.module.parallax h1 {
+  color: #E8E2B5;
+  font-size: 48px;
+  line-height: 1;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 0 0 4px rgba(20,20,20,0.35);
+}
+
+section.module.parallax.para-1 {
+  background-image: url(../img/para-1-bg.jpg);
+  background-position: bottom center;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
+section.module.parallax.para-2 {
+  background-image: url(../img/para-2-bg.jpg);
+  background-position: center center;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
+section.module.parallax.para-3 {
+  background-image: url(../img/para-3-bg.jpg);
+  background-position: center center;
+  background-attachment: fixed;
+  overflow: hidden;
+}
