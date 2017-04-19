@@ -93,9 +93,9 @@
   </div>
   <div class="col-lg-4 col-md-4">
     <h3>Hours:</h3>
-    <b>Sunday</b>  9:00 am – 2:00 pm
+    <b>Sunday</b>  9:00 am – 4:00 pm
     <br>
-    <b>Monday</b>   8:00 am – 2:00 pm
+    <b>Monday</b>   Closed
     <br>
     <b>Tuesday</b>  8:00 am – 5:00 pm
     <br>
@@ -105,7 +105,7 @@
     <br>
     <b>Friday</b>   8:00 am – 5:00 pm
     <br>
-    <b>Saturday</b>   8:00 am – 3:00 pm
+    <b>Saturday</b>   8:00 am – 4:00 pm
   </div>
   <div class="col-lg-4 col-md-4">
     <h3>Or stay in touch the more traditional ways:</h3>
