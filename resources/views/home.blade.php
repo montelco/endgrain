@@ -23,11 +23,11 @@
       </tr>
       <tr>
         <td>Latte</td>
-        <td>3.5/4.5</td>
+        <td>3.75/4.75</td>
       </tr>
       <tr>
         <td>Cappucino</td>
-        <td>3.5/4.5</td>
+        <td>3.75/4.75</td>
       </tr>
       <tr>
         <td>Espresso</td>
@@ -35,7 +35,7 @@
       </tr>
       <tr>
         <td>Americano</td>
-        <td>2/2.5</td>
+        <td>2.25/2.75</td>
       </tr>
       </tr>
       <tr>
@@ -44,7 +44,7 @@
       </tr>
       <tr>
         <td>Hot Chocolate</td>
-        <td>2.5/3</td>
+        <td>3.25/3.75</td>
       </tr>
       <tr>
         <td>Pourover</td>
@@ -52,19 +52,19 @@
       </tr>
       <tr>
         <td>Green/Chai Latte</td>
-        <td>4</td>
+        <td>4.25</td>
       </tr>
       <tr>
         <td>Nitro</td>
-        <td>4</td>
+        <td>4.25</td>
       </tr>
       <tr>
         <td>Cold Brew</td>
-        <td>3</td>
+        <td>3.25</td>
       </tr>
       <tr>
         <td>Iced Latte</td>
-        <td>4.5</td>
+        <td>4.75</td>
       </tr>
       <tr>
         <td>Iced Tea</td>
