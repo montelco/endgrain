@@ -84,12 +84,16 @@
 @stop
 @section('contactus')
 	<div class="col-lg-4 col-md-4">
-		<h3>Hit us up on social media:</h3>
-    <a href="https://twitter.com/EndgrainCoffee"><img src="https://beanstalk-production-f.squarecdn.com/sites/assets/templates/social-twitter@2x-87ca214ff9060e5cd6033fd2c39fd8b1.png"> Twitter</a>
-    <br>
-    <a href="https://www.facebook.com/EndgrainCoffee"><img src="https://beanstalk-production-f.squarecdn.com/sites/assets/templates/social-fb@2x-d49ceec6a8200f549b1507a95258f340.png"> Facebook</a>
-    <br>
-    <a href="https://www.instagram.com/EndgrainCoffee"><img src="https://beanstalk-production-f.squarecdn.com/sites/assets/templates/social-ig@2x-ccad63ccc5ce5f7d0bdea783259960f4.png"> Instagram</a>
+	<h3>Hit us up on social media:</h3>
+	<div class="col-lg-4 col-md-4">
+	    <a href="https://twitter.com/EndgrainCoffee"><img src="https://beanstalk-production-f.squarecdn.com/sites/assets/templates/social-twitter@2x-87ca214ff9060e5cd6033fd2c39fd8b1.png"> Twitter</a>
+	    </div>
+	    <div class="col-lg-4 col-md-4">
+	    <a href="https://www.facebook.com/EndgrainCoffee"><img src="https://beanstalk-production-f.squarecdn.com/sites/assets/templates/social-fb@2x-d49ceec6a8200f549b1507a95258f340.png"> Facebook</a>
+	    </div>
+	    <div class="col-lg-4 col-md-4">
+	    <a href="https://www.instagram.com/EndgrainCoffee"><img src="https://beanstalk-production-f.squarecdn.com/sites/assets/templates/social-ig@2x-ccad63ccc5ce5f7d0bdea783259960f4.png"> Instagram</a>
+  	</div>
   </div>
   <div class="col-lg-4 col-md-4">
     <h3>Hours:</h3>
