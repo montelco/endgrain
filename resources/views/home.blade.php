@@ -93,19 +93,36 @@
   </div>
   <div class="col-lg-4 col-md-4">
     <h3>Hours:</h3>
-    <b>Sunday</b>  9:00 am – 2:00 pm
-    <br>
-    <b>Monday</b>   8:00 am – 2:00 pm
-    <br>
-    <b>Tuesday</b>  8:00 am – 5:00 pm
-    <br>
-    <b>Wednesday</b>  8:00 am – 5:00 pm
-    <br>
-    <b>Thursday</b>   8:00 am – 5:00 pm
-    <br>
-    <b>Friday</b>   8:00 am – 5:00 pm
-    <br>
-    <b>Saturday</b>   8:00 am – 2:00 pm
+    <table>
+    	<tr>
+		<td><strong>Sunday</strong></td>
+		<td>9:00 am – 2:00 pm</td>
+	</tr>
+	<tr>
+		<td><strong>Monday</strong></td>
+		<td>8:00 am – 2:00 pm</td>
+	</tr>
+	<tr>
+		<td><strong>Tuesday</strong></td>
+		<td>8:00 am – 5:00 pm</td>
+	</tr>
+	<tr>
+		<td><strong>Wednesday</strong></td>
+		<td>8:00 am – 5:00 pm</td>
+	</tr>
+	<tr>
+		<td><strong>Thursday</strong></td>
+		<td>8:00 am – 5:00 pm</td>
+	</tr>
+	<tr>
+		<td><strong>Friday</strong></td>
+		<td>8:00 am – 5:00 pm</td>
+	</tr>
+	<tr>
+		<td><strong>Saturday</strong></td>
+		<td>8:00 am – 2:00 pm</td>
+	</tr>
+    </table>
   </div>
   <div class="col-lg-4 col-md-4">
     <h3>Or stay in touch the more traditional ways:</h3>
