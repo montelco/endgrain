@@ -5,6 +5,48 @@ html, body{
 	height: 100%;
 	min-height: 100%;
 }
+
+.table-responsive hr{
+  border-color: #000;
+}
+
+@media screen and (max-width: 767px) {
+  a.social-bug img, a.social-bug{
+    padding-bottom: 3em;
+  }
+  .centred{
+    text-align: center;
+  }
+  .flex-header img.mini{
+    padding-top: 0.75em;
+  }
+  p{
+    text-align: justify;
+  }
+}
+
+section#services table.table thead tr th:nth-of-type(2), section#services table.table tbody tr td:nth-of-type(2) {
+  text-align: right;
+}
+
+.righty, table.t-righty tr td:nth-of-type(2){
+  text-align: right;
+}
+
+.flex-header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-header h2{
+  display: inline;
+}
+
+.flex-header img.mini{
+  height: 4.75em;
+  display: inline;
+}
+
 .alert{
   z-index: 100 !important;
 }
@@ -82,8 +124,10 @@ header{
 .pagelet, #intro{
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 2px solid rgba(200,200,200,0.5);
+    border-bottom: 4px solid rgb(232, 226, 181);
+    border-top: 4px solid rgb(232, 226, 181);
     background-color: #f1f1f1;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.50);
 }
 
 section.module.parallax {

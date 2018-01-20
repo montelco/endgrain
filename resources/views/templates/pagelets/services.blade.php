@@ -4,7 +4,7 @@
 			<h1>What We Offer</h1>	
 		</div>
 		<section class="row-fluid">
-			<div class="span6 offset3">
+			<div class="span12">
 				@yield('services')
 			</div>
 		</section>
