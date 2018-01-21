@@ -25,6 +25,10 @@ html, body{
   }
 }
 
+section#about img{
+  height: 16em;
+}
+
 section#services table.table thead tr th:nth-of-type(2), section#services table.table tbody tr td:nth-of-type(2) {
   text-align: right;
 }
