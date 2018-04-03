@@ -1,6 +1,6 @@
 @extends('templates.default')
 @section('alerts')
-	<p></p>
+	<br>
 	<h4>We just turned 3! To celebrate, you can grab a Cold Brew/Nitro, small latte, or pour over for just $3.00 all month.</h4>
 @stop
 @section('intro')
