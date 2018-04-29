@@ -1,7 +1,8 @@
 @extends('templates.default')
 @section('alerts')
-	<br>
-	<h4>Not only can you can grab a Cold Brew/Nitro for just $3.00 all month, but you can also enjoy it in our new <a href="https://www.instagram.com/p/BhpUKS5Hlea/" target="_blank">glasses.</a></h4>
+	<h3>Thank you for making us th
+	e Courier Post's 2018 Best of South Jersey!</h3>
+
 @stop
 @section('intro')
 	<p>Endgrain Coffee Bar is proud to introduce the first Nitro tap in South Jersey. Nitro is a slightly effervescent, ice-cold coffee on tap that is equal parts chocolatey and silky smooth; Cold brewed over 24 hours, and then placed under nitrogen pressure to add a smooth creaminess to coffee. Nitro will excite your taste buds and is a summer time cold coffee you can get excited about. Come in and give it a try today.</p>
