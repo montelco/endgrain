@@ -24,7 +24,6 @@
     	<meta name="keywords" content="nitro,cold brew,coffee,coffee shop,coffee bar,drinks,cappucino,espresso,latte,Starbucks,Rowan University,Pitman,New Jersey,South Jersey,french press,pourover,Brandywine Coffee Roasters,Royal Mile Coffee Roasters,One Village Coffee Roasters,ReAnimator Coffee Roasters,Philly,Philadelphia,local business">
 	</head>
 	<body>
-		{{!-- @include('templates.snippets.alerts') --}}
 		@include('templates.snippets.navigation')
 		@include('templates.snippets.header')
 		@include('templates.pagelets.intro')
