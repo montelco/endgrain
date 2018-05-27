@@ -1,8 +1,6 @@
 @extends('templates.default')
 @section('alerts')
-	<h3>Thank you for making us th
-	e Courier Post's 2018 Best of South Jersey!</h3>
-
+	<h3>🇺🇸 We will be open 8AM to 12PM on Monday, May 28 for Memorial Day 🇺🇸</3>
 @stop
 @section('intro')
 	<p>Endgrain Coffee Bar is proud to introduce the first Nitro tap in South Jersey. Nitro is a slightly effervescent, ice-cold coffee on tap that is equal parts chocolatey and silky smooth; Cold brewed over 24 hours, and then placed under nitrogen pressure to add a smooth creaminess to coffee. Nitro will excite your taste buds and is a summer time cold coffee you can get excited about. Come in and give it a try today.</p>
