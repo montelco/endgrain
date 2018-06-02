@@ -25,8 +25,6 @@
 	</head>
 	<body>
 	@include('templates.snippets.alerts')
-	
-		@include('templates.snippets.navigation')
 		@include('templates.snippets.header')
 		@include('templates.pagelets.intro')
 		@include('templates.parallax.paraone')
