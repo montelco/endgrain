@@ -234,7 +234,7 @@ section.module.parallax.para-3 {
   overflow: hidden;
 }
 
-@media screen and (max-width: 769px) {
+@supports (-webkit-overflow-scrolling: touch) {
   section.module.parallax, header{
     background-attachment: scroll !important;
     max-height: 120vh;
