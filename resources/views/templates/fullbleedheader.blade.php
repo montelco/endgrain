@@ -27,6 +27,7 @@
 		@include('templates.snippets.navigation')
 		@include('templates.snippets.header')
 		@include('templates.pagelets.singleColumn')
+		@include('templates.parallax.parathree')
 		@include('templates.pagelets.contactus')
 	</body>
 <html>
