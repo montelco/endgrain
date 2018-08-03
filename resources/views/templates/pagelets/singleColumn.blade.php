@@ -1,6 +1,6 @@
 <section id="intro">
 	<div class="container">
-		<section class="row-fluid">
+		<section class="row">
 			<div class="col-md-3 col-sm-3">
 				@yield('featureImage','<img src="img/grinder.svg">')
 			</div>
@@ -12,7 +12,7 @@
 				@yield('body')
 			</div>
 		</section>
-		<section class="row-fluid">
+		<section class="row">
 			@yield('theRest')
 		</section>
 	</div>
