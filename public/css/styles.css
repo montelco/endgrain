@@ -191,6 +191,22 @@ header{
   }
 }
 
+.table .table{
+  background: transparent !important;
+}
+
+@media (min-width: 578px){
+  .table .table td .catering{
+    display: none;
+  }
+}
+.table .table td .catering{
+  float: right;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  max-width: 200px;
+}
+
 img.feature{
   max-width: 100%;
   height: auto;

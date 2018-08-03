@@ -23,30 +23,30 @@
       <tr>
         <td>
           <h3>Espresso Drinks</h3>
-          <p style="font-size: 14pt">Lattes, Cappucinos, Americanos, Affogatos, oh my! One of our more popular options for on-site service, full service espresso drinks are a sure fire way to spice up any event. Whether you need to wake up that corporate event, get your students energized and excited, or kick off the wedding reception with an extra shot o' joe, our professional baristas will be ready to make any number of espresso drinks for your guests.</p>
+          <p style="font-size: 14pt"><img class="img-responsive catering" src="https://scontent-iad3-1.cdninstagram.com/vp/66bba1bcbd3bf5b639f0a438db69cb6d/5C11C794/t51.2885-15/e35/s480x480/23596095_277084222812450_4897506634458202112_n.jpg" alt="Latte and Espresso">Lattes, Cappucinos, Americanos, Affogatos, oh my! One of our more popular options for on-site service, full service espresso drinks are a sure fire way to spice up any event. Whether you need to wake up that corporate event, get your students energized and excited, or kick off the wedding reception with an extra shot o' joe, our professional baristas will be ready to make any number of espresso drinks for your guests.</p>
         </td>
-        <td><img class="img-responsive" style="max-width: 260px" src="https://scontent-iad3-1.cdninstagram.com/vp/66bba1bcbd3bf5b639f0a438db69cb6d/5C11C794/t51.2885-15/e35/s480x480/23596095_277084222812450_4897506634458202112_n.jpg" alt="Latte and Espresso"></td>
+        <td class="hidden-sm"><img class="img-responsive catering" src="https://scontent-iad3-1.cdninstagram.com/vp/66bba1bcbd3bf5b639f0a438db69cb6d/5C11C794/t51.2885-15/e35/s480x480/23596095_277084222812450_4897506634458202112_n.jpg" alt="Latte and Espresso"></td>
       </tr>
       <tr>
         <td>
           <h3>Cold Brewed Coffee</h3>
-          <p style="font-size: 14pt">The sweeter brother of iced coffee, cold brewed coffee never touches hot water which means that it's not bitter. The cold brewing process imbues rich, chocolatey notes and makes for a refreshing treat for your guests. Even if your guests take some coffee with their cup of cream, they'll be able to drink our sweet cold brew black.</p>
+          <p style="font-size: 14pt"><img class="img-responsive catering" src="https://scontent-iad3-1.cdninstagram.com/vp/e9722de227abace8bf6c38edee42bc13/5C10A6B7/t51.2885-15/sh0.08/e35/s640x640/36561246_1770406549717427_6073674482050924544_n.jpg" alt="Cold Brew">The sweeter brother of iced coffee, cold brewed coffee never touches hot water which means that it's not bitter. The cold brewing process imbues rich, chocolatey notes and makes for a refreshing treat for your guests. Even if your guests take some coffee with their cup of cream, they'll be able to drink our sweet cold brew black.</p>
         </td>
-        <td><img class="img-responsive" style="max-width: 260px" src="https://scontent-iad3-1.cdninstagram.com/vp/e9722de227abace8bf6c38edee42bc13/5C10A6B7/t51.2885-15/sh0.08/e35/s640x640/36561246_1770406549717427_6073674482050924544_n.jpg" alt="Cold Brew"></td>
+        <td class="hidden-sm"><img class="img-responsive catering" src="https://scontent-iad3-1.cdninstagram.com/vp/e9722de227abace8bf6c38edee42bc13/5C10A6B7/t51.2885-15/sh0.08/e35/s640x640/36561246_1770406549717427_6073674482050924544_n.jpg" alt="Cold Brew"></td>
       </tr>
       <tr>
         <td>
           <h3>Nitro Cold Brewed Coffee</h3>
-          <p style="font-size: 14pt">It looks like Guiness, tastes like goodness. Our Nitro Cold Brewed coffee takes cold brew to the next level by being pressured with nitrogen for over twenty-four hours, giving it a bubbly, creamy taste. You'll have guests lining up for more after they try their first glass of our Nitro Cold Brewed coffee.</p>
+          <p style="font-size: 14pt"><img class="img-responsive catering" src="https://scontent-iad3-1.cdninstagram.com/vp/2e520222973c48f7ed31f8cd2d2903e8/5B670696/t51.2885-15/e35/s480x480/30829409_1271749042958040_4470753602981330944_n.jpg" alt="Nitro">It looks like Guiness, tastes like goodness. Our Nitro Cold Brewed coffee takes cold brew to the next level by being pressured with nitrogen for over twenty-four hours, giving it a bubbly, creamy taste. You'll have guests lining up for more after they try their first glass of our Nitro Cold Brewed coffee.</p>
         </td>
-        <td><img class="img-responsive" style="max-width: 260px" src="https://scontent-iad3-1.cdninstagram.com/vp/2e520222973c48f7ed31f8cd2d2903e8/5B670696/t51.2885-15/e35/s480x480/30829409_1271749042958040_4470753602981330944_n.jpg" alt="Nitro"></td>
+        <td class="hidden-sm"><img class="img-responsive catering" src="https://scontent-iad3-1.cdninstagram.com/vp/2e520222973c48f7ed31f8cd2d2903e8/5B670696/t51.2885-15/e35/s480x480/30829409_1271749042958040_4470753602981330944_n.jpg" alt="Nitro"></td>
       </tr>
       <tr>
         <td>
           <h3>Batch Brewed Coffee</h3>
-          <p style="font-size: 14pt">They call classics 'classic' for a reason: because there's nothing wrong with 'em. Batch brewed coffee is always a crowd pleaser and with our selection of locally roasted beans from which to choose, you can bet on guests begging for more.</p>
+          <p style="font-size: 14pt"><img class="img-responsive catering" src="https://scontent-iad3-1.cdninstagram.com/vp/94c15cc6c09ac29881a67bddf4d59188/5C08A861/t51.2885-15/sh0.08/e35/s640x640/36798423_193353014691121_3785905227794743296_n.jpg" alt="Coffee in Cup">They call classics 'classic' for a reason: because there's nothing wrong with 'em. Batch brewed coffee is always a crowd pleaser and with our selection of locally roasted beans from which to choose, you can bet on guests begging for more.</p>
         </td>
-        <td><img class="img-responsive" style="max-width: 260px" src="https://scontent-iad3-1.cdninstagram.com/vp/94c15cc6c09ac29881a67bddf4d59188/5C08A861/t51.2885-15/sh0.08/e35/s640x640/36798423_193353014691121_3785905227794743296_n.jpg" alt="Coffee in Cup"></td>
+        <td class="hidden-sm"><img class="img-responsive catering" src="https://scontent-iad3-1.cdninstagram.com/vp/94c15cc6c09ac29881a67bddf4d59188/5C08A861/t51.2885-15/sh0.08/e35/s640x640/36798423_193353014691121_3785905227794743296_n.jpg" alt="Coffee in Cup"></td>
       </tr>
     </table>
   </div>
