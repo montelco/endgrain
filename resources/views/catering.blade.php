@@ -17,9 +17,7 @@
 </div>
 @stop
 @section('theRest')
-<div class="row-fluid">
   <div class="col-md-12 col-sm-12 copyBanner">
     <img src="https://scontent-iad3-1.cdninstagram.com/vp/c3aef83d87913857110accb450312145/5C1045BE/t51.2885-15/e35/30603325_2021823024735088_542304805838651392_n.jpg" alt="Joe Fultano at Endgrain Pitman">
   </div>
-</div>
 @stop

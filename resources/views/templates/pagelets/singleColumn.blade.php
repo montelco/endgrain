@@ -12,6 +12,8 @@
 				@yield('body')
 			</div>
 		</section>
-		@yield('theRest', '')
+		<section class="row-fluid">
+			@yield('theRest')
+		</section>
 	</div>
 </section>

@@ -199,6 +199,7 @@ img.feature{
 }
 div.copyBanner{
   overflow: hidden;
+  max-height: 200px;
 }
 div.copyBanner>img{
   width: 100%;
