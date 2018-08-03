@@ -4,6 +4,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 		<title>Endgrain Coffee Bar | @yield('pageTitle')</title>
+		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 	    <meta name="mobile-web-app-capable" content="yes">
 	    <meta name="theme-color" content="#231F20">
