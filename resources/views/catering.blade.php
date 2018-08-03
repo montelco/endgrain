@@ -16,10 +16,10 @@
   <p style="font-size: 16pt">For your convenience, we have provided some information about a <em>few</em> of our popular options down below. We understand that every event is different and your needs are unique, so feel free to <a href="#contact">contact us</a> to see how we accomodate your requests. We are available to have consultations over the phone, via email, or in-person.</p>
 </div>
 @stop
-@section('body2')
-<section class="row-fluid">
+@section('theRest')
+<div class="row-fluid">
   <div class="col-md-12 col-sm-12 copyBanner">
     <img src="https://scontent-iad3-1.cdninstagram.com/vp/c3aef83d87913857110accb450312145/5C1045BE/t51.2885-15/e35/30603325_2021823024735088_542304805838651392_n.jpg" alt="Joe Fultano at Endgrain Pitman">
   </div>
-</section>
+</div>
 @stop

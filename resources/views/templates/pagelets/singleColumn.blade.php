@@ -12,6 +12,6 @@
 				@yield('body')
 			</div>
 		</section>
-		@yield('body2', '')
+		@yield('theRest', '')
 	</div>
 </section>
