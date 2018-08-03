@@ -191,6 +191,12 @@ header{
   }
 }
 
+.col-md-3>img.feature{
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
 section.module.parallax {
   padding: 240px 0;
   background-size: cover;

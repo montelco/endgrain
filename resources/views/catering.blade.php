@@ -1,8 +1,8 @@
 @extends('templates.fullbleedheader')
 @section('featureImage')
-	<img src="https://scontent-iad3-1.cdninstagram.com/vp/658dd7bac6875ae133691aaaebe17e21/5C12E624/t51.2885-15/sh0.08/e35/s640x640/35617212_642802826074707_4451145385057976320_n.jpg" alt="Barista Joe Catering a Wedding">
+	<img class="feature" src="https://scontent-iad3-1.cdninstagram.com/vp/658dd7bac6875ae133691aaaebe17e21/5C12E624/t51.2885-15/sh0.08/e35/s640x640/35617212_642802826074707_4451145385057976320_n.jpg" width="480" alt="Barista Joe Catering a Wedding">
   <br/>
-  <img src="https://scontent-iad3-1.cdninstagram.com/vp/d6de8ee82377dc8efc72a09853497e12/5C033FF7/t51.2885-15/e35/s480x480/21984969_1445900732191074_6112592301706444800_n.jpg" alt="Catering Camper">
+  <img class="feature" src="https://scontent-iad3-1.cdninstagram.com/vp/d6de8ee82377dc8efc72a09853497e12/5C033FF7/t51.2885-15/e35/s480x480/21984969_1445900732191074_6112592301706444800_n.jpg" alt="Catering Camper">
 @stop
 @section('pageTitle')
 	Catering By Endgrain
