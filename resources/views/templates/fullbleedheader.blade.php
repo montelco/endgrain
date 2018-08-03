@@ -3,7 +3,7 @@
 	<head>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-		<title>Endgrain Coffee Bar</title>
+		<title>Endgrain Coffee Bar | @yield('pageTitle')</title>
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 	    <meta name="mobile-web-app-capable" content="yes">
 	    <meta name="theme-color" content="#231F20">
@@ -26,10 +26,7 @@
 	<body>
 		@include('templates.snippets.navigation')
 		@include('templates.snippets.header')
-		@include('templates.pagelets.aboutus')
-		@include('templates.parallax.paratwo')
-		@include('templates.pagelets.services')
-		@include('templates.parallax.parathree')
+		@include('templates.pagelets.singleColumn')
 		@include('templates.pagelets.contactus')
 	</body>
 <html>

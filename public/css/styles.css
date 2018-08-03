@@ -25,6 +25,25 @@ html, body{
   }
 }
 
+@media screen and (min-width: 768px){
+  .navbar-nav>li {
+    border-right: 1px solid hsla(345, 6%, 19%, 1);
+  }
+  .navbar-nav>li:hover {
+    background: hsla(345, 6%, 19%, 1);
+  }
+  .navbar-nav>li.store{
+    padding: 0 16px;
+    background: #d6ba75 !important;
+    border-radius: 4px;
+  }
+  .navbar-nav>li.store a{
+    text-shadow: 0 0.125rem 0.125rem rgba(50,50,50,0.16);
+    font-weight: 600;
+    font-size: 1.125em;
+  }
+}
+
 section#about img{
   height: 16em;
 }
@@ -115,14 +134,42 @@ header{
 }
 
 .logo{
-    height: 180px;
-    width: 100%;
-    background: url(../img/axe_n_extractor.svg);
-    background-position: top center;
-    background-repeat: no-repeat;
-    position: absolute;
-    top: 50%;
-    margin-top: -90px;
+  height: 240px;
+  width: 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 50%;
+  margin-top: -90px;
+}
+
+.parabox>.logo>img {
+  max-width: 400px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.parabox>.logo>div.store{
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 20px;
+  max-width: 200px;
+  background: #d6ba75 !important;
+  border-radius: 4px;
+}
+.parabox>.logo>div.store a:hover{
+  border-radius: 4px;
+  background: #c8a346;
+}
+.parabox>.logo>div.store a{
+  text-shadow: 0 0.125rem 0.125rem rgba(50,50,50,0.16);
+  font-weight: 600;
+  font-size: 1.25em;
+  color: white !important;
+  text-align: center;
+  display: block;
+  padding: 20px;
 }
 
 .pagelet, #intro{
