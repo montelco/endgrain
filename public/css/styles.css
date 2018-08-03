@@ -195,15 +195,18 @@ header{
   background: transparent !important;
 }
 
-@media (min-width: 578px){
-  .table .table td .catering{
+@media (min-width: 768px){
+  .table .table td p.catering{
     display: none;
   }
 }
-.table .table td .catering{
+.table .table td p.catering{
   float: right;
   padding-left: 15px;
   padding-bottom: 15px;
+}
+
+.table .table td .catering{
   max-width: 200px;
 }
 
