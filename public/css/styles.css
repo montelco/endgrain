@@ -196,11 +196,11 @@ header{
 }
 
 @media (min-width: 768px){
-  .table .table td p.catering{
+  .table .table td p .catering{
     display: none;
   }
 }
-.table .table td p.catering{
+.table .table td p .catering{
   float: right;
   padding-left: 15px;
   padding-bottom: 15px;
