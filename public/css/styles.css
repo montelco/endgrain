@@ -199,11 +199,14 @@ img.feature{
 }
 div.copyBanner{
   overflow: hidden;
-  max-height: 200px;
+  height: 240px;
 }
 div.copyBanner>img{
+  filter: grayscale(100%);
   width: 100%;
   height: auto;
+  top: -575px;
+  position: absolute;
   object-fit: cover;
 }
 
