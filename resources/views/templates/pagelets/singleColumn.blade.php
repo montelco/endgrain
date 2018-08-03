@@ -5,12 +5,13 @@
 				@yield('featureImage','<img src="img/grinder.svg">')
 			</div>
 			<div class="col-md-9 col-sm-9">
-				<div class="page-header">
+				<div class="page-header" style="margin-top: -20px">
 					<h1>@yield('pageTitle')</h1>
 					<em>@yield('pageSubtitle')</em>	
 				</div>
 				@yield('body')
 			</div>
 		</section>
+		@yield('body2', '')
 	</div>
 </section>
