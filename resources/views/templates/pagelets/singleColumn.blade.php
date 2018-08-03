@@ -15,14 +15,7 @@
 	</div>
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12 col-sm-12 copyBanner">
-				@yield('copyBanner')
-			</div>
-		</div>
-	</div>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12 col-sm-12 copyBanner">
+			<div class="col-md-12 col-sm-12">
 				@yield('body2')
 			</div>
 		</div>
