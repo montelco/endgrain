@@ -87,6 +87,7 @@ body{
 
 .navbar-brand{
 	font-family: 'Droid Serif' !important;
+  padding: 10px 15px !important;
 	color: #fff !important;
 }
 
