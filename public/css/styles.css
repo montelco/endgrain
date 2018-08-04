@@ -124,7 +124,7 @@ body{
 header{
     position: relative;
     height: 600px;
-    background: url(../img/bg.jpg);
+    background: linear-gradient(rgba(74, 74, 74, 0.25), rgba(74, 74, 74, 0.25)), url(../img/bg.jpg);
     background-size: auto 600px;
     background-repeat: no-repeat;
     background-size: cover;
