@@ -37,7 +37,7 @@
       <tr>
         <td>
           <h3>Nitro Cold Brewed Coffee</h3>
-          <p style="font-size: 14pt"><img class="img-responsive catering" src="https://scontent-iad3-1.cdninstagram.com/vp/2e520222973c48f7ed31f8cd2d2903e8/5B670696/t51.2885-15/e35/s480x480/30829409_1271749042958040_4470753602981330944_n.jpg" alt="Nitro">It looks like Guiness, tastes like goodness. Our Nitro Cold Brewed coffee takes cold brew to the next level by being pressured with nitrogen for over twenty-four hours, giving it a bubbly, creamy taste. You'll have guests lining up for more after they try their first glass of our Nitro Cold Brewed coffee.</p>
+          <p style="font-size: 14pt"><img class="img-responsive catering" src="https://scontent-ort2-2.cdninstagram.com/vp/0e357d221ed491360d08efefd612062f/5B6E9616/t51.2885-15/e35/30829409_1271749042958040_4470753602981330944_n.jpg" alt="Nitro">It looks like Guiness, tastes like goodness. Our Nitro Cold Brewed coffee takes cold brew to the next level by being pressured with nitrogen for over twenty-four hours, giving it a bubbly, creamy taste. You'll have guests lining up for more after they try their first glass of our Nitro Cold Brewed coffee.</p>
         </td>
         <td class="hidden-xs"><img class="img-responsive catering" src="https://scontent-iad3-1.cdninstagram.com/vp/2e520222973c48f7ed31f8cd2d2903e8/5B670696/t51.2885-15/e35/s480x480/30829409_1271749042958040_4470753602981330944_n.jpg" alt="Nitro"></td>
       </tr>
