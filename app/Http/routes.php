@@ -12,3 +12,8 @@
 		'uses' => '\endgrain\Http\Controllers\HomeController@catering',
 		'as' => 'catering',
 	]);
+
+	Route::get('/beer', [
+		'uses' => '\endgrain\Http\Controllers\HomeController@beer',
+		'as' => 'beer',
+	]);

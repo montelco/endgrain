@@ -18,6 +18,7 @@
                     <li><a href="https://endgrain.coffee/#services">Menu</a></li>
                     {{-- <li><a href="/wholesale">Wholesale</a></li> --}}
                     <li><a href="/catering">Catering</a></li>
+                    <li><a href="/beer">Beer</a></li>
                     <li><a href="#contact">Contact Us</a></li>
                     <li class="store"><a href="http://store.endgrain.coffee">Store</a></li>
             </ul>

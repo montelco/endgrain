@@ -10,6 +10,9 @@
 		public function catering(){
 			return view('catering');
 		}
+		public function beer(){
+			return view('beer');
+		}
 		// public function wholesale(){
 		// 	return view('wholesale');
 		// }
