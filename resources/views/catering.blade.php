@@ -39,7 +39,7 @@
           <h3>Nitro Cold Brewed Coffee</h3>
           <p style="font-size: 14pt"><img class="img-responsive catering" src="https://ucarecdn.com/f690835c-dadd-478d-9758-fac2ae906c0a/30829409_1271749042958040_4470753602981330944_n.jpg" alt="Nitro">It looks like Guiness, tastes like goodness. Our Nitro Cold Brewed coffee takes cold brew to the next level by being pressured with nitrogen for over twenty-four hours, giving it a bubbly, creamy taste. You'll have guests lining up for more after they try their first glass of our Nitro Cold Brewed coffee.</p>
         </td>
-        <td class="hidden-xs"><img class="https://ucarecdn.com/f690835c-dadd-478d-9758-fac2ae906c0a/30829409_1271749042958040_4470753602981330944_n.jpg" alt="Nitro"></td>
+        <td class="hidden-xs"><img class="img-responsive catering" src="https://ucarecdn.com/f690835c-dadd-478d-9758-fac2ae906c0a/30829409_1271749042958040_4470753602981330944_n.jpg" alt="Nitro"></td>
       </tr>
       <tr>
         <td>
