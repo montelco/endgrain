@@ -13,6 +13,9 @@
 		public function beer(){
 			return view('beer');
 		}
+		public function pitmanAve(){
+			return view('ten-pitman');
+		}
 		// public function wholesale(){
 		// 	return view('wholesale');
 		// }
