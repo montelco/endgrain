@@ -1,5 +1,6 @@
 @extends('templates.fullbleedheader')
 @section('featureImage')
+  <link rel="stylesheet" href="/css/styles.css">
   <img class="feature" src="https://ucarecdn.com/d7908ead-cdab-42a8-a3e7-389e528c034c/-/progressive/yes/-/quality/lightest/-/scale_crop/600x600/endgrain-new-store-joe.jpg" width="480" alt="Joe Fultano, owner of Endgrain, poses in front of new storefront">
   <br/>
   <img class="feature" src="https://ucarecdn.com/d4b012a6-2370-4b45-b39d-17f677951dc1/-/progressive/yes/-/quality/lightest/-/scale_crop/600x600/tap.jpg" alt="Joe in 2015 standing in front of the original 2nd Ave location">
