@@ -17,3 +17,7 @@
 		'uses' => '\endgrain\Http\Controllers\HomeController@beer',
 		'as' => 'beer',
 	]);
+	Route::get('/news/10-pitman-ave', [
+		'uses' => '\endgrain\Http\Controllers\HomeController@pitmanAve',
+		'as' => 'pitmanAve',
+	]);
