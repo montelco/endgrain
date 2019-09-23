@@ -55,8 +55,8 @@
 					    <h3>Find us offline:</h3>
 					      <div class="row-fluid">
 					        <div class="col-lg-6 col-md-6 col-xs-6">
-					          <strong><address>3 Second Ave<br>
-					          Pitman, NJ 08312
+					          <strong><address>10 Pitman Ave<br>
+					          Pitman, NJ 08071
 					          </address></strong>
 					        </div>
 					        <div class="col-lg-6 col-md-6 col-xs-6 righty">
