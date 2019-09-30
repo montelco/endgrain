@@ -23,31 +23,31 @@
 					    <table class="table t-righty">
 					      <tr>
 					        <td><strong>Sunday</strong></td>
-					        <td>9:00 am – 2:00 pm</td>
+					        <td>09:00 – 14:00</td>
 					      </tr>
 					      <tr>
 					        <td><strong>Monday</strong></td>
-					        <td>8:00 am – 2:00 pm</td>
+					        <td>08:00 – 14:00</td>
 					      </tr>
 					      <tr>
 					        <td><strong>Tuesday</strong></td>
-					        <td>8:00 am – 5:00 pm</td>
+					        <td>08:00 – 17:00</td>
 					      </tr>
 					      <tr>
 					        <td><strong>Wednesday</strong></td>
-					        <td>8:00 am – 5:00 pm</td>
+					        <td>08:00 – 17:00</td>
 					      </tr>
 					      <tr>
 					        <td><strong>Thursday</strong></td>
-					        <td>8:00 am – 5:00 pm</td>
+					        <td>08:00 – 17:00</td>
 					      </tr>
 					      <tr>
 					        <td><strong>Friday</strong></td>
-					        <td>8:00 am – 5:00 pm</td>
+					        <td>08:00 – 17:00</td>
 					      </tr>
 					      <tr>
 					        <td><strong>Saturday</strong></td>
-					        <td>8:00 am – 2:00 pm</td>
+					        <td>08:00 – 15:00</td>
 					      </tr>
 					    </table>
 					  </div>
