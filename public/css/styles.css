@@ -246,21 +246,21 @@ section.module.parallax h1 {
 }
 
 section.module.parallax.para-1 {
-  background-image: url(../img/para-1-bg.jpg);
+  background-image: url(https://ucarecdn.com/86cff92b-2c08-4356-b628-6a0e73701acc/-/preview/-/grayscale/iced-drink.jpg);
   background-position: bottom center;
   background-attachment: fixed;
   overflow: hidden;
 }
 
 section.module.parallax.para-2 {
-  background-image: url(../img/para-2-bg.jpg);
+  background-image: url(https://ucarecdn.com/683459a4-94c6-4910-9c9b-3b18e4787f9f/-/preview/-/filter/enzana/cafe.jpg);
   background-position: center center;
   background-attachment: fixed;
   overflow: hidden;
 }
 
 section.module.parallax.para-3 {
-  background-image: url(../img/para-3-bg.jpg);
+  background-image: url(https://ucarecdn.com/432bb0d1-28c7-4009-aec7-c02ecd7647e8/-/preview/-/filter/enzana/croissant.jpg);
   background-position: center center;
   background-attachment: fixed;
   overflow: hidden;
