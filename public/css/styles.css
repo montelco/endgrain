@@ -240,13 +240,13 @@ section.module.parallax {
   background-repeat: no-repeat;
 }
 section.module.parallax h1 {
-  color: #E8E2B5;
+  color: HSL(46.9, 74.6%, 52%);
   font-size: 48px;
   line-height: 1;
   font-weight: 700;
   text-align: center;
   text-transform: uppercase;
-  text-shadow: 0 0 4px rgba(20,20,20,0.35);
+  text-shadow: 0 0 12px hsla(0, 0%, 7.8%, 50%);
 }
 
 section.module.parallax.para-1 {
