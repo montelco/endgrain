@@ -1,7 +1,7 @@
 @extends('templates.default')
 @section('alerts')
-	<h3>Love Endgrain?</h3>
-	<p>Vote for us in the <a href="https://courierpostonline.secondstreetapp.com/Best-of-South-Jersey-2020/gallery/?group=337210" target="_blank">Best of South Jersey</a></p>
+	<h3>Important Update</h3>
+	<p>Following the new state mandated guidelines we have switched to <strong>Take Out service only</strong>. Starting today we will be open until 3pm through Sat. Sun,Mon follow a 2pm closing. These may change so please check social media frequently.</p>
 @stop
 @section('aboutus')
   <p>Endgrain Coffee Roaster was the first Nitro tap coffee bar in South Jersey. Nitro is a slightly effervescent, ice-cold coffee on tap that is equal parts chocolatey and silky smooth; Cold brewed over 24 hours, and then placed under nitrogen pressure to add a smooth creaminess to coffee. Nitro will excite your taste buds and is a summer time cold coffee you can get excited about. Come in and give it a try today.</p>
