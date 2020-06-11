@@ -23,31 +23,31 @@
 					    <table class="table t-righty">
 					      <tr>
 					        <td><strong>Sunday</strong></td>
-					        <td><span style="display:none">09:00 – 14:00</span>TEMPORARILY CLOSED</td>
+					        <td style="color: red"><span style="display:none">09:00 – 14:00</span>TEMPORARILY CLOSED</td>
 					      </tr>
 					      <tr>
 					        <td><strong>Monday</strong></td>
-					        <td><span style="display:none">08:00 – 14:00</span>TEMPORARILY CLOSED</td>
+					        <td style="color: red"><span style="display:none">08:00 – 14:00</span>TEMPORARILY CLOSED</td>
 					      </tr>
 					      <tr>
 					        <td><strong>Tuesday</strong></td>
-					        <td><span style="display:none">08:00 – 17:00</span>TEMPORARILY CLOSED</td>
+					        <td style="color: red"><span style="display:none">08:00 – 17:00</span>TEMPORARILY CLOSED</td>
 					      </tr>
 					      <tr>
 					        <td><strong>Wednesday</strong></td>
-					        <td><span style="display:none">08:00 – 17:00</span>12:00 - 14:00</td>
+					        <td style="color: green"><span style="display:none">08:00 – 17:00</span>12:00 - 14:00</td>
 					      </tr>
 					      <tr>
 					        <td><strong>Thursday</strong></td>
-					        <td><span style="display:none">08:00 – 17:00</span>TEMPORARILY CLOSED</td>
+					        <td style="color: red"><span style="display: none">08:00 – 17:00</span>TEMPORARILY CLOSED</td>
 					      </tr>
 					      <tr>
 					        <td><strong>Friday</strong></td>
-					        <td><span style="display:none">08:00 – 17:00</span>TEMPORARILY CLOSED</td>
+					        <td style="color: red"><span style="display:none">08:00 – 17:00</span>TEMPORARILY CLOSED</td>
 					      </tr>
 					      <tr>
 					        <td><strong>Saturday</strong></td>
-					        <td><span style="display:none">08:00 – 15:00</span>10:00 - 13:00</td>
+					        <td style="color: green"><span style="display:none">08:00 – 15:00</span>10:00 - 13:00</td>
 					      </tr>
 					    </table>
 					  </div>
