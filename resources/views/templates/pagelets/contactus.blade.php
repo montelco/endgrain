@@ -47,7 +47,7 @@
 					      </tr>
 					      <tr>
 					        <td><strong>Saturday</strong></td>
-					        <td><span>08:00 – 14:00</span>10:00 - 13:00</td>
+					        <td><span>08:00 – 14:00</span></td>
 					      </tr>
 					    </table>
 					  </div>
