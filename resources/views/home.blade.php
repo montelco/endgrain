@@ -1,7 +1,7 @@
 @extends('templates.default')
 @section('alerts')
-	<h3>Takeout Coffee Restarting on Saturday (6/13)</h3>
-	<p>With the Stay At Home order lifted we felt it was a good time to open back up for proper service. Hours are going to be limited at first until we can get a better idea of the new flow. Outside seating starting on the 15th!</p>
+	<h3>Takeout Coffee Restarting on Saturday (6/13); Outdoor Seating (6/15)</h3>
+	<p><a href="#contact">Check out the new hours</a> as we get back to service. <strong>Outside seating</strong> will be available starting 6/15.</p>
 @stop
 @section('aboutus')
   <p>Endgrain Coffee Roaster was the first Nitro tap coffee bar in South Jersey. Nitro is a slightly effervescent, ice-cold coffee on tap that is equal parts chocolatey and silky smooth; Cold brewed over 24 hours, and then placed under nitrogen pressure to add a smooth creaminess to coffee. Nitro will excite your taste buds and is a summer time cold coffee you can get excited about. Come in and give it a try today.</p>
