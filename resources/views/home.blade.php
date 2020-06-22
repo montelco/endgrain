@@ -1,6 +1,6 @@
 @extends('templates.default')
 @section('alerts')
-	<h3>Takeout Coffee Restarting on Saturday (6/13); Outdoor Seating (6/15)</h3>
+	<h3>Takeout Coffee Now Available</h3>
 	<p><a href="#contact">Check out the new hours</a> as we get back to service. <strong>Outside seating</strong> will be available starting 6/15.</p>
 @stop
 @section('aboutus')
