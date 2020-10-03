@@ -3,22 +3,21 @@
 	<head>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-		<title>Endgrain Coffee Bar | @yield('pageTitle')</title>
+		<title>@yield('pageTitle') | Endgrain Coffee Roasters</title>
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 	    <meta name="mobile-web-app-capable" content="yes">
 	    <meta name="theme-color" content="#231F20">
 	    <link rel="icon" sizes="192x192" href="img/favicon.png">
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">		
-		<link rel="stylesheet" href="css/styles.css">
-		<script type="text/javascript">
-			$(window).scroll(function(){
-				var wScroll = $(this).scrollTop();
-				$('.logo').css({
-					'transform' : 'translate(0px, '+ wScroll /4 +'%)'
-				});
-			});
-		</script>
+		<link rel="stylesheet" href="css/main.css">	
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149020327-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-149020327-1');
+		</script>	
 	    <meta charset="utf-8">
     	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     	<meta name="description" content="Located in Southern New Jersey, Endgrain Coffee Bar is the first third wave coffee shop in the area to offer both Nitro on tap and house roasted beans.">
@@ -30,5 +29,6 @@
 		@include('templates.pagelets.singleColumn')
 		@include('templates.parallax.parathree')
 		@include('templates.pagelets.contactus')
+		<script src="js/main.js" defer=""></script>
 	</body>
 <html>

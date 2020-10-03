@@ -15,8 +15,8 @@ return [
     */
 
     'mailgun' => [
-        'domain' => env('MAILGUN_DOMAIN'),
-        'secret' => env('MAILGUN_SECRET'),
+        'domain' => "mg.endgrain.coffee",
+        'secret' => "key-67ecabb86630a586fd67badcb84f30bb",
     ],
 
     'mandrill' => [

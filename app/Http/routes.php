@@ -17,7 +17,18 @@
 		'uses' => '\endgrain\Http\Controllers\HomeController@beer',
 		'as' => 'beer',
 	]);
-	Route::get('/10-pitman-ave', [
-		'uses' => '\endgrain\Http\Controllers\HomeController@pitmanAve',
-		'as' => 'pitmanAve',
+	
+	Route::get('/menu', [
+		'uses' => '\endgrain\Http\Controllers\HomeController@menu',
+		'as' => 'menu',
 	]);
+
+	Route::get('/locations', [
+		'uses' => '\endgrain\Http\Controllers\HomeController@locations',
+		'as' => 'locations',
+	]);
+
+	Route::post('/contact', [
+		'uses' => '\endgrain\Http\Controllers\HomeController@postContact',
+	]);
+
