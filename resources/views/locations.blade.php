@@ -58,7 +58,7 @@
           <tbody>
             <tr>
               <td class="text-grey-900 leading-none">Mon</td>
-              <td class="text-grey-600 text-right"><strong>Closed</strong></td>
+              <td class="text-grey-600 text-right">0800 - 1400</td>
             </tr>
             <tr>
               <td class="text-grey-900 leading-none">Tue</td>
