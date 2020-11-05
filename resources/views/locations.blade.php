@@ -58,23 +58,23 @@
           <tbody>
             <tr>
               <td class="text-grey-900 leading-none">Mon</td>
-              <td class="text-grey-600 text-right">0800 - 1400</td>
+              <td class="text-grey-600 text-right">0800 - 1500</td>
             </tr>
             <tr>
               <td class="text-grey-900 leading-none">Tue</td>
-              <td class="text-grey-600 text-right">0800 - 1400</td>
+              <td class="text-grey-600 text-right">0800 - 1500</td>
             </tr>
             <tr>
               <td class="text-grey-900 leading-none">Wed</td>
-              <td class="text-grey-600 text-right">0800 - 1400</td>
+              <td class="text-grey-600 text-right">0800 - 1500</td>
             </tr>
             <tr>
               <td class="text-grey-900 leading-none">Thu</td>
-              <td class="text-grey-600 text-right">0800 - 1400</td>
+              <td class="text-grey-600 text-right">0800 - 1500</td>
             </tr>
             <tr>
               <td class="text-grey-900 leading-none">Fri</td>
-              <td class="text-grey-600 text-right">0800 - 1400</td>
+              <td class="text-grey-600 text-right">0800 - 1500</td>
             </tr>
             <tr>
               <td class="text-grey-900 leading-none">Sat</td>
@@ -82,7 +82,7 @@
             </tr>
             <tr>
               <td class="text-grey-900 leading-none">Sun</td>
-              <td class="text-grey-600 text-right">0900 - 1400</td>
+              <td class="text-grey-600 text-right">0900 - 1500</td>
             </tr>
           </tbody>
         </table>
@@ -133,23 +133,23 @@
             <tbody>
               <tr>
                 <td class="text-grey-900 leading-none">Mon</td>
-                <td class="text-grey-600 text-right">0800 - 1300</td>
+                <td class="text-grey-600 text-right">0800 - 1400</td>
               </tr>
               <tr>
                 <td class="text-grey-900 leading-none">Tue</td>
-                <td class="text-grey-600 text-right">0800 - 1300</td>
+                <td class="text-grey-600 text-right">0800 - 1400</td>
               </tr>
               <tr>
                 <td class="text-grey-900 leading-none">Wed</td>
-                <td class="text-grey-600 text-right">0800 - 1300</td>
+                <td class="text-grey-600 text-right">0800 - 1400</td>
               </tr>
               <tr>
                 <td class="text-grey-900 leading-none">Thu</td>
-                <td class="text-grey-600 text-right">0800 - 1300</td>
+                <td class="text-grey-600 text-right">0800 - 1400</td>
               </tr>
               <tr>
                 <td class="text-grey-900 leading-none">Fri</td>
-                <td class="text-grey-600 text-right">0800 - 1300</td>
+                <td class="text-grey-600 text-right">0800 - 1400</td>
               </tr>
               <tr>
                 <td class="text-grey-900 leading-none">Sat</td>
