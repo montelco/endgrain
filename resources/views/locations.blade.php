@@ -5,10 +5,10 @@
   Locations and Hours
 @stop
 @section('pageSubtitle')
-  Two locations ready to caffeinate your day
+  Stop by our Pitman cafe to caffeinate your day
 @stop
 @section('body')
-  <p class="mb-8">You've got good tastes, now you can find a location to serve 'em. Check out one of our two awesome locations- our Pitman flagship cafe and our Collingswood Outpost.</p>
+  <p class="mb-8">You've got good tastes! Stop by our Pitman flagship cafe for great coffee, tea, and more.</p>
 </div>
 @stop
 @section('body2')
@@ -89,7 +89,7 @@
       </section>
     </div>
     </div>
-    <div class="mb-16 p-8 border-t-2 border-b-2 border-grey-300">
+    <div class="mb-16 p-8 border-t-2 border-b-2 border-grey-300 hidden">
       <div class="lg:flex justify-center">
         <div class="w-full h-48 md:h-64 md:w-64 bg-cover text-center overflow-hidden rounded-md shadow-lg md:mr-12 mb-8 md:mb-0" style="background-image: url('../img/contact-us.jpg');background-position: bottom;" title="The Outpost"></div>
         <section class="lg:flex lg:justify-between max-w-2xl flex-grow">

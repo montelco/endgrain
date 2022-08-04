@@ -1,7 +1,5 @@
 @extends('templates.default')
 @section('alerts')
-	<h1>Hey Collingswood! We're Coming to You!</h1>
-	<p>Endgrain Coffee will be coming to Collingswood this autumn. Check out our <a href="https://www.facebook.com/EndgrainCoffee/posts/2690014561252097" target="_blank">Facebook post</a> for more info.</p>
 @stop
 @section('topthree')
   <div class="image bg-white rounded-lg shadow-xl overflow-hidden col-span-1 transform hover:-translate-y-1 hover:scale-105 transition ease-in-out duration-300">

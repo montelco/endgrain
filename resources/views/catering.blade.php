@@ -5,22 +5,21 @@
   <img class="feature" src="https://ucarecdn.com/34750832-611a-4bcd-bd5a-87a746bce6f3/21910166_1242570992555042_2567615716807147520_n.jpg" alt="Catering Camper">
 @stop
 @section('pageTitle')
-	Catering By Endgrain
+	Catering, Bulk, & Wholesale By Endgrain
 @stop
 @section('pageSubtitle')
-	Caffeinating Your Next Event
+	Caffeinating Your Needs
 @stop
 @section('body')
   <section class="text-lg">
-    <p class="mb-6">No matter if your special event is a wedding, corporate gather, school function, fundraising event, or something else, Endgrain is proud to offer catering services. Our baristas are there to help caffeinate your event no matter what the case may be. Whether you need our ice-cold, bubbly Nitro Cold Brew or specialty drinks like lattes and cappucinos, the Endgrain team are able to make your event a memorable one.</p>
-    <p class="mb-6">Our catering menus can be as simple or complex as you'd like: espresso drinks (including lattes, cappucinos, Americanos), Cold Brew, batch brews, Nitro, and more. Endgrain baristas are available for on-site service or catered items (such as large batch brewed coffee and kegged cold brew) can be provided ready-to-serve. </p>
+    <p class="mb-6">No matter if your special event is a wedding, corporate gather, school function, fundraising event, or something else, Endgrain is proud to offer catering services as well as bulk and wholesale. Whether you need bulk-order roasted coffee beans, our ice-cold, bubbly Nitro Cold Brew, or specialty drinks like lattes and cappucinos, the Endgrain team are able to make your experience a memorable one.</p>
     <p class="mb-6">For your convenience, we have provided some information about a <em>few</em> of our popular options down below. We understand that every event is different and your needs are unique, so feel free to <a href="#contact">contact us</a> to see how we accomodate your requests. For your convenience, we are available to have consultations over the phone or via email; you're welcome to stop by in-person to get a feel for the Endgrain style, too.</p>
   </section>
 </div>
 @stop
 @section('body2')
   <div class="prose my-16">
-    <h2>Popular Catering Options</h2>
+    <h2>Popular Options</h2>
   </div>
   <div class="md:flex flex-wrap justify-between mb-16">
     <section class="md:max-w-6xl order-2 md:order-1 prose">
@@ -58,7 +57,7 @@
       <img class="img-responsive catering rounded-lg shadow-2xl" src="https://ucarecdn.com/d573c1f7-7e71-494d-90a8-81a3e35dafcf/43729884_397495004123378_1734688744095634459_n.jpg" alt="Cold Brew">
     </section>
   </div>
-  {{-- <form action="{{ url('contact') }}" method="POST">
+  {{-- <form action="{{ url('contact') }}" method="POST" class="hidden">
     {{ csrf_field() }}
     <div class="form-group">
       <label name="name">Name</label>

@@ -8,7 +8,7 @@
   Find the item that's right for you
 @stop
 @section('body')
-  <p class="mb-8">Check out our Fall menu. Our full list of pastries and snacks change regularly, so check in-store for what's available.</p>
+  <p class="mb-8">Check out our current menu. Our full list of pastries and snacks change regularly, so check in-store for what's available. <em>Prices are subject to change due to limited item supplies.</em></p>
 </div>
 @stop
 @section('body2')

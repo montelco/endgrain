@@ -58,13 +58,13 @@
           Menu
         </a>
         <a href="/locations" class="text-base leading-6 font-medium text-grey-600 hover:text-grey-900 focus:outline-none focus:text-grey-900 transition ease-in-out duration-150">
-          Locations
+          Directions & Hours
         </a>
         <a href="/beer" class="text-base leading-6 font-medium text-grey-600 hover:text-grey-900 focus:outline-none focus:text-grey-900 transition ease-in-out duration-150">
           Beer
         </a>
         <a href="/catering" class="text-base leading-6 font-medium text-grey-600 hover:text-grey-900 focus:outline-none focus:text-grey-900 transition ease-in-out duration-150">
-          Catering
+          Catering, Bulk, & Wholesale
         </a>
       </nav>
       <div class="hidden md:flex items-center justify-end space-x-8 md:flex-1 lg:w-0">
