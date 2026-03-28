@@ -60,9 +60,6 @@
         <a href="/locations" class="text-base leading-6 font-medium text-grey-600 hover:text-grey-900 focus:outline-none focus:text-grey-900 transition ease-in-out duration-150">
           Directions & Hours
         </a>
-        <a href="/beer" class="text-base leading-6 font-medium text-grey-600 hover:text-grey-900 focus:outline-none focus:text-grey-900 transition ease-in-out duration-150">
-          Beer
-        </a>
         <a href="/catering" class="text-base leading-6 font-medium text-grey-600 hover:text-grey-900 focus:outline-none focus:text-grey-900 transition ease-in-out duration-150">
           Catering, Bulk, & Wholesale
         </a>
@@ -128,11 +125,6 @@
               <a href="/locations" class="-m-3 p-3 flex items-center space-x-3 rounded-md hover:bg-gray-50 transition ease-in-out duration-150">
                 <div class="text-base leading-6 font-medium text-gray-900">
                   Locations
-                </div>
-              </a>
-              <a href="beer" class="-m-3 p-3 flex items-center space-x-3 rounded-md hover:bg-gray-50 transition ease-in-out duration-150">
-                <div class="text-base leading-6 font-medium text-gray-900">
-                  Beer
                 </div>
               </a>
               <a href="/catering" class="-m-3 p-3 flex items-center space-x-3 rounded-md hover:bg-gray-50 transition ease-in-out duration-150">
